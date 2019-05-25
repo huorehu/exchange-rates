@@ -1,0 +1,34 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    width: 100%;
+    height: 100%;
+    background-color: #b9c783;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.rates {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: auto;
+}
+
+.rates__values {
+    padding: 0;
+    list-style-type: none;
+}
+
+#rates {
+    margin-bottom: 40px;
+}
