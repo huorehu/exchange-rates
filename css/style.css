@@ -32,3 +32,17 @@ html, body {
 #rates {
     margin-bottom: 40px;
 }
+
+#history, #rates {
+    background-color: #635960;
+    width: 170px;
+    min-height: 40px;
+    font-size: 0.9rem;
+    font-family: 'Montserrat', 'sans-serif';
+    color: #fffecd;
+    border: none;
+}
+
+#history:hover, #rates:hover {
+    cursor: pointer;
+}

@@ -8,5 +8,5 @@
         <?php endforeach; ?>
 
     </ul>
-    <button id="rates">Показать текущий курс</button>
+    <button id="rates">Показать курс</button>
 </div>
